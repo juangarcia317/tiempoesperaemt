@@ -1,0 +1,7 @@
+{
+  "name": "EMT Madrid - Tiempos de Espera en Tiempo Real",
+  "description": "Consulta en tiempo real los tiempos de llegada de los autobuses de la EMT de Madrid con datos oficiales del portal de datos abiertos del Ayuntamiento de Madrid (dataset 900029-0-emt-autobus-tiempo-real).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
